@@ -1,2 +1,2 @@
 # Set-Project-2
-Practice using hashmaps and map entries
+Very useful practice using hashmaps, map entries, pairs, and iterators
